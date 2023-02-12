@@ -13,7 +13,7 @@ For others, run main.py and install Python packages as per the comments
 **Programming language** Python
 **Important packages** PyDicom, numpy, PySimpleGUi
 
-Python was chosen as the language to implement this demo for its familiarity, widely available packages, and simplicity. The demo was completed in 5 days, averaging around 1.5 hours per day spent. Around half the time spent on creating this program was on figuring how utilise parallel processing to speed up the importing process, as the default behaviour of the program is too slow for a proper demonstration. 
+Python was chosen as the language to implement this demo for its familiarity, widely available packages, and simplicity. The demo was completed in a week, averaging around one hour per day spent. As I was familiar with creating GUI in Python, I was able to focus on 
 
 PyInstaller was used to compile an executable for Windows, demonstrating the feasibility of creating an hassle-free program with widely available tools like Python for medical professionals. 
 
@@ -22,4 +22,4 @@ Added parallel processing using Python's multiprocessing package to speed up the
 
 ## What I got out of this:
 
-Throughout the creation of this demo, I haved learned the basices of handling the processing and storage of uncompressed image files. I also gained an understanding of the fundamentals of parallel processing in Python. 
+Throughout the creation of this demo, I haved learned the basices of handling the processing and storage of uncompressed image files. I also gained an understanding of the fundamentals of parallel processing in Python. Most of all, I became more proficient in handling changes in product requirements during the development process as I have fulfilled requests of additions by team members. 
