@@ -5,6 +5,7 @@ A functioning demo of a DICOM file reader as part of an image analysis group pro
 
 ## Run instructions
 For Windows, run main.exe in dist/main/
+
 For others, run main.py and install Python packages as per the comments
 
 ## Creation:
